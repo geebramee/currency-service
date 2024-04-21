@@ -1,0 +1,5 @@
+port: 8080
+redis_url: "localhost:6379"
+redis_password: ""
+api1_percent: 80
+api2_percent: 20
